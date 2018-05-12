@@ -1,4 +1,8 @@
 _repo: Blood-Atonement-and-the-Origin-of-Plural-Marriage-A-Discussion_50535
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50535-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Smith, Joseph Fielding
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '43038'
     url: http://www.gutenberg.org/2009/agents/43038
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50535#Blood-Atonement-and-the-Origin-of-Plural-Marriage-A-Discussion
 gutenberg_issued: '2015-11-22'
 gutenberg_type: Text
 identifiers:
